@@ -1,0 +1,5 @@
+{
+  "name": "Briefly - News to Audio",
+  "description": "Convert your daily news reading list into a personalized audio summary for your commute using Gemini's advanced text-to-speech capabilities.",
+  "requestFramePermissions": []
+}
